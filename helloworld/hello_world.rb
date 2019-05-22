@@ -1,7 +1,7 @@
 # run this with 'ruby hello_world.rb'
 
 # puts prints a string with a newline appended
-puts "Hello World!"
+puts "Hello Ruby World!"
 
 # print prints a string without a newline appended
-print "Hello World!\n"
+print "Hello Ruby World!\n"
