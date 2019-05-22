@@ -1,3 +1,7 @@
+#/usr/bin/python
+
+# run this with 'python hello_world.py'
+
 # Python 2
 print "Hello World!"
 
