@@ -9,3 +9,4 @@ This directory contains sample hello world programs for each language.
 * [PHP](hello_world.php)
 * [Python](hello_world.py)
 * [Ruby](hello_world.rb)
+* [Scala](HelloWorld.scala)
