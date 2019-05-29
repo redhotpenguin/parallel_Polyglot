@@ -3,6 +3,7 @@
 This directory contains sample hello world programs for each language.
 
 * [C](hello_world.c)
+* [C++](hello_world.cpp)
 * [Go](hello_world.go)
 * [Java](HelloWorld.java)
 * [Node.js](HelloWorld.js)
