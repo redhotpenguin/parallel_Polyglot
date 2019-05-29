@@ -7,4 +7,4 @@ If you are reading this, you probably know one or two languages fluently, and se
 I hope this document helps you as much as it does me. You'll notice the name of this repository is a mix of under_score and camelCase syntax; that's intentional. Naming conventions for different languages are observed.
 
 * [Hello World](/helloworld)
-* [Argument passing](/argv)
+* [Argument Handling](/argv)
