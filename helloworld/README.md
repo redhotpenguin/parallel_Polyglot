@@ -6,6 +6,7 @@ This directory contains sample hello world programs for each language.
 * [C++](hello_world.cpp)
 * [Go](hello_world.go)
 * [Java](HelloWorld.java)
+* [Lua](hello_world.lua)
 * [Node.js](HelloWorldJS.js)
 * [Perl](hello_world.pl)
 * [PHP](hello_world.php)
