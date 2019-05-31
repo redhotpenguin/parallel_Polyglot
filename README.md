@@ -9,3 +9,4 @@ I hope this document helps you as much as it does me. You'll notice the name of 
 * [Hello World](/helloworld)
 * [Argument Handling](/argv)
 * [Lists, Tuples, Arrays, Slices](/lists_arrays_slices)
+* [External Commands](/external_commands)
