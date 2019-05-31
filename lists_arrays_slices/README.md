@@ -4,3 +4,4 @@ This directory contains programs for lists/arrays/slices
 
 * [Go](slices.go)
 * [Python](lists.py)
+* [Rust](arrays_slices.rs)
