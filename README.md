@@ -10,4 +10,5 @@ I hope this document helps you as much as it does me. You'll notice the name of 
 * [Argument Handling](/argv)
 * [Lists, Tuples, Arrays, Slices](/lists_arrays_slices)
 * [Hashes, Maps, Dictionaries](/hashes_maps_dictionaries)
+* [Loops](/loops)
 * [External Commands](/external_commands)
