@@ -1,6 +1,7 @@
 /*
  * prints hello world
- * run this with 'java HelloWorld.java'
+ * compile with 'javac HelloWorld.java'
+ * then run with 'java HelloWorld' (runs HelloWorld.class)
  */
 
 public class HelloWorld {
