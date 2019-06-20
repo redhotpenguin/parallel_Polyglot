@@ -8,5 +8,3 @@ object HelloWorld {
     println("Hello Scala World!")
   }
 }
-
-HelloWorld.main(Array())
